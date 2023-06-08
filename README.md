@@ -1,4 +1,4 @@
-# Support_Vector_Machine-Implementation-Experimentation-Visualization
+# Implementation And Experimentation on SVM
 
 This repository contains a jupyter file named SVM.ipynb which contains the code for the SVM implementation along with various visualization and experimentation.
 
