@@ -36,3 +36,6 @@ Several tweaks have been made in terms of data points and changing the C paramet
 2. Changing the parameters and reporiting the scores
 
 Here, we have taken a famous MNIST data and used sklearn implemented SVM to visulize the support vectors and decision boundary by changing the parameters. Various scores have been reported based upon that.
+
+### Comments for each step are added in Jupyter Notebook which will help to understand it better
+
